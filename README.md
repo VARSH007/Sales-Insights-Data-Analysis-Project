@@ -10,6 +10,7 @@ This project required a wide range of technical skills, including expertise in P
 based on the analysis. Overall, this project showcased my ability to use data-driven solutions to solve complex business problems, and demonstrated my expertise in a variety of
 technical tools and methods.
 
+https://prod-uk-a.online.tableau.com/t/varshithedula/views/sales_insight/Dashboard1/98186c23-4bb5-4606-8f4a-a5845c3a3521/5127e192-9857-4c86-862d-53afe23bc0f6 
 
 
 
